@@ -24,9 +24,19 @@ If you're an AI agent reading this: these skills provide pre-built tools and wor
 | [lsp28-grid](./skills/lsp28-grid) | Manage LSP28 The Grid on Universal Profiles | LUKSO |
 | [forever-moments](./skills/forever-moments) | Post moments, mint LIKES, create collections | LUKSO |
 | [stakingverse-lukso](./skills/stakingverse-lukso) | Stake LYX for sLYX liquid staking | LUKSO |
+| [lukso-expert](./skills/lukso-expert) | Comprehensive LUKSO knowledge base — all LSPs, dev patterns, ecosystem, contracts | LUKSO |
 | [stakingverse-ethereum](./skills/stakingverse-ethereum) | Stake ETH on StakeWise V3 | Ethereum |
 
 ### Skill Details
+
+#### LUKSO Expert ⭐ NEW
+The complete LUKSO knowledge base for AI agents. 180KB of curated references covering all 26 LSP standards, developer patterns with code examples, ecosystem projects, deployed contract addresses, and API endpoints. Install this skill to make any agent a LUKSO expert instantly.
+
+**Key Features:**
+- All LSP standards (LSP0-LSP26) with interfaces, code examples, and gotchas
+- Practical dev guides: UP creation, token ops, permissions, gasless relay, The Grid
+- Ecosystem map: projects, team, grants, community channels
+- Contract addresses, GitHub repos, NPM packages, API endpoints
 
 #### Universal Profile
 Manage LUKSO Universal Profiles — the core identity layer for agents. Create profiles, manage permissions, execute transactions via KeyManager, and interact with the LSP ecosystem.
